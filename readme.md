@@ -29,7 +29,7 @@ server {
      listen 80;
     
             server_name giaohang.hoanvusolutions.com.vn;
-    
+            
             #proxy_cache on;
             location / {
     
